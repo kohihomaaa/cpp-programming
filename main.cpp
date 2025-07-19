@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-//yo broo
-=======
 #include <SFML/Graphics.hpp>
 #include <cstdlib>
 #include <ctime>
@@ -84,4 +81,3 @@ int main() {
 
     return 0;
 }
->>>>>>> 270f11245355b2d06b391a0bf72affa861a0159c
